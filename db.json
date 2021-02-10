@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": "ghtdhtvj",
+      "title": "Book One Title",
+      "author": "John One Doe"
+    },
+    {
+      "id": "ghtdhtvk",
+      "title": "Book Two Title",
+      "author": "John Two Doe"
+    },
+    {
+      "id": "ghtdhtvl",
+      "title": "Book Three Title",
+      "author": "John Three Doe"
+    }
+  ]
+}
